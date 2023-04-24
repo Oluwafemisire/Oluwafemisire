@@ -9,7 +9,6 @@ I am interested in financial technological services and I am open to learning. I
 
 
 ### Proud Moment
-<br />
 
 #### Assignment Tracker 
 A team mate and I developed a web application that helps students track their assignment deadlines. This assignment tracker helps students stay organized and on top of their game with a hectic workload.
